@@ -1,0 +1,58 @@
+Indicator Code,Friendly Name
+BM.GSR.TOTL.CD,"Imports of goods, services and primary income (BoP, current US$)"
+BN.CAB.XOKA.CD,"Current account balance (BoP, current US$)"
+BX.GRT.EXTA.CD.WD,"Grants, excluding technical cooperation (BoP, current US$)"
+BX.GRT.TECH.CD.WD,"Grants, technical cooperation (BoP, current US$)"
+BX.GSR.TOTL.CD,"Exports of goods, services and primary income (BoP, current US$)"
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)"
+BX.PEF.TOTL.CD.WD,"Portfolio equity, net inflows (BoP, current US$)"
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)"
+DT.DOD.DECT.CD,"External debt stocks, total (current US$)"
+DT.DOD.DECT.GN.ZS,"External debt stocks, total (% of GNI)"
+DT.DOD.DIMF.CD,"External debt stocks, IMF credit (current US$)"
+DT.DOD.DLXF.CD,"External debt stocks, long-term (current US$)"
+DT.DOD.DPNG.CD,"External debt stocks, private nonguaranteed (current US$)"
+DT.DOD.DPPG.CD,"External debt stocks, public and publicly guaranteed (current US$)"
+DT.DOD.DSTC.CD,"External debt stocks, short-term (current US$)"
+DT.DOD.DSTC.IR.ZS,Short-term debt (% of total reserves)
+DT.DOD.DSTC.XP.ZS,"Short-term debt (% of exports of goods, services and primary income)"
+DT.DOD.DSTC.ZS,Short-term debt (% of total external debt)
+DT.DOD.MIBR.CD,"External debt stocks, IBRD (current US$)"
+DT.DOD.MIDA.CD,"External debt stocks, IDA (current US$)"
+DT.DOD.MWBG.CD,"External debt stocks, World Bank (IBRD + IDA) (current US$)"
+DT.DOD.PVLX.CD,Present value of external debt (current US$)
+DT.DOD.PVLX.EX.ZS,Present value of external debt (% of exports)
+DT.NFL.BLAT.CD,"Net financial flows, bilateral (current US$)"
+DT.NFL.BOND.CD,"Net financial flows, bonds (current US$)"
+DT.NFL.DPNG.CD,"Net financial flows, private nonguaranteed (current US$)"
+DT.NFL.IMFN.CD,"Net financial flows, IMF (non-concessional) (current US$)"
+DT.NFL.MIBR.CD,"Net financial flows, IBRD (current US$)"
+DT.NFL.MIDA.CD,"Net financial flows, IDA (current US$)"
+DT.NFL.MLAT.CD,"Net financial flows, multilateral (current US$)"
+DT.NFL.MOTH.CD,"Net financial flows, other multilateral (current US$)"
+DT.NFL.NIFC.CD,"Net financial flows, IFC, private nonguaranteed (current US$)"
+DT.NFL.OFFT.CD,"Net financial flows, official creditors (current US$)"
+DT.NFL.PBND.CD,"Net financial flows, public and publicly guaranteed, bonds (current US$)"
+DT.NFL.PCBK.CD,"Net financial flows, public and publicly guaranteed, commercial banks (current US$)"
+DT.NFL.PCBO.CD,"Net financial flows, commercial banks & other lending (current US$)"
+DT.NFL.PNGB.CD,"Net financial flows, private nonguaranteed, bonds (current US$)"
+DT.NFL.PNGC.CD,"Net financial flows, private nonguaranteed, commercial creditors (current US$)"
+DT.NFL.PROP.CD,"Net financial flows, public and publicly guaranteed, other private creditors (current US$)"
+DT.NFL.PRVT.CD,"Net financial flows, public and publicly guaranteed, private creditors (current US$)"
+DT.ODA.ODAT.CD,Net official development assistance received (current US$)
+DT.ODA.ODAT.GN.ZS,Net ODA received (% of GNI)
+DT.ODA.ODAT.PC.ZS,Net ODA received per capita (current US$)
+DT.TDS.DECT.CD,Total debt service (current US$)
+DT.TDS.DECT.EX.ZS,"Total debt service (% of exports of goods, services and primary income)"
+DT.TDS.DECT.GN.ZS,Total debt service (% of GNI)
+DT.TDS.DIMF.CD,Debt service to IMF (current US$)
+DT.TDS.DPPF.XP.ZS,"Debt service on PPG and IMF only (% of exports of goods, services and primary income)"
+DT.TDS.DPPG.CD,Public and publicly guaranteed debt service (current US$)
+DT.TDS.DPPG.GN.ZS,Public and publicly guaranteed debt service (% of GNI)
+DT.TDS.DPPG.XP.ZS,Public and publicly guaranteed debt service (% of exports)
+DT.TDS.MLAT.CD,Multilateral debt service (current US$)
+DT.TDS.MLAT.PG.ZS,Multilateral debt service (% of public and publicly guaranteed debt service)
+FI.RES.TOTL.CD,Total reserves incl. gold (current US$)
+FI.RES.TOTL.DT.ZS,Total reserves / total external debt (%)
+FI.RES.TOTL.MO,Total reserves in months of imports
+NY.GNP.MKTP.CD,"Gross national product, current US$"
